@@ -1,4 +1,4 @@
-# PATH2XNAT
+![image](https://github.com/user-attachments/assets/74127cb4-30c0-4fcc-972c-36ba7c08323a)
 
 PATH2XNAT is an [EU ISIDORe project](https://isidore-project.eu/). PATH2XNAT an integrated solution for Digital Pathomics (DP) and Spatial Transcriptomics (ST) image analysis, facilitating research into the pathogenesis of infectious diseases. 
 
